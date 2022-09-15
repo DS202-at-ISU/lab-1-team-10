@@ -26,8 +26,6 @@ This is a line from RStudio Cael L: Step 12.3 went smoothly, and I was able to g
 
 Cael L. Step 12.4: The main problem I was having with committing changes to github it would set back the version of the READ.ME file in RStudio and it wouldn't allow me to enter visual mode. I was able to fix this problem by deleting any information that RStudio didn't know and it allowed me to commit messages.
 
-This is a line form RStudio Karrigan: Went as expected
-
 This line is from RStudio Quita: Went as expected
 
 **Step 12.5:**
