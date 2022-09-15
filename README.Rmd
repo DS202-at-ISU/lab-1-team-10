@@ -28,11 +28,18 @@ This is a line form RStudio Karrigan: Went as expected
 
 This is a line from RStudio Cael: Step 12.3 went smoothly, and I was able to get the github repository to load into RStudio successfully.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e1c3f00b2abbcc02f20480a71c02cc366b12f799
 
 This line is from RStudio 
 Quita: Went as expected
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e1c3f00b2abbcc02f20480a71c02cc366b12f799
 This is a line from RStudio
 Karrigan: Went as expected
 
