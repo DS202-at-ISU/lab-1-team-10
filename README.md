@@ -17,4 +17,23 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+\<\<\<\<\<\<\< HEAD This is a line form RStudio Karrigan: Went as
+expected
+
+This is a line from RStudio Cael L: Step 12.3 went smoothly, and I was
+able to get the github repository to load into RStudio successfully.
+
+Cael L. Step 12.4: The main problem I was having with committing changes
+to github it would set back the version of the READ.ME file in RStudio
+and it wouldn’t allow me to enter visual mode. I was able to fix this
+problem by deleting any information that RStudio didn’t know and it
+allowed me to commit messages.
+
 This is a line form RStudio Karrigan: Went as expected
+
+This is a line from RStudio Cael: Step 12.3 went smoothly, and I was
+able to get the github repository to load into RStudio successfully.
+
+This line is from RStudio Quita: Went as expected
+
+This is a line from RStudio Karrigan: Went as expected
