@@ -32,4 +32,6 @@ This line is from RStudio Quita: Went as expected
 
 **Step 12.5:**
 
+Cael L: My main issue in trying to push my changes to Github. I kept running into merge errors and running into errors with the remote package. I was able to solve this problem by making sure to pull of the changes made to the repository before trying to push my changes, and I also decide to uninstall the remote package and I was able to push my changes much more smoothly.
+
 **Step 12.6:**
