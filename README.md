@@ -17,11 +17,14 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-\<\<\<\<\<\<\< HEAD This is a line form RStudio Karrigan: Went as
-expected
+**Step 12.3:**
+
+This is a line form RStudio Karrigan: Went as expected
 
 This is a line from RStudio Cael L: Step 12.3 went smoothly, and I was
 able to get the github repository to load into RStudio successfully.
+
+**Step 12.4:**
 
 Cael L. Step 12.4: The main problem I was having with committing changes
 to github it would set back the version of the READ.ME file in RStudio
@@ -29,11 +32,20 @@ and it wouldn’t allow me to enter visual mode. I was able to fix this
 problem by deleting any information that RStudio didn’t know and it
 allowed me to commit messages.
 
-This is a line form RStudio Karrigan: Went as expected
-
-This is a line from RStudio Cael: Step 12.3 went smoothly, and I was
-able to get the github repository to load into RStudio successfully.
-
 This line is from RStudio Quita: Went as expected
 
-This is a line from RStudio Karrigan: Went as expected
+**Step 12.5:**
+
+Cael L: My main issue in trying to push my changes to Github. I kept
+running into merge errors and running into errors with the remote
+package. I was able to solve this problem by making sure to pull of the
+changes made to the repository before trying to push my changes, and I
+also decide to uninstall the remote package and I was able to push my
+changes much more smoothly.
+
+**Step 12.6:**
+
+Cael L: There wasn’t any issue with the changes I made to the RMarkdown
+file not showing up in GitHub. Sometimes it would take 2 commits or
+pushes to get the changes to load, but other than that it went really
+smooth.
