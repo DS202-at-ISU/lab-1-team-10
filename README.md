@@ -17,4 +17,13 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-This is a line form RStudio Karrigan: Went as expected
+\<\<\<\<\<\<\< HEAD This is a line form RStudio Karrigan: Went as
+expected
+
+This is a line from RStudio Cael: Step 12.3 went smoothly, and I was
+able to get the github repository to load into RStudio successfully.
+
+This line is from RStudio Quita: Went as expected
+
+======= This is a line from RStudio Karrigan: Went as expected
+\>\>\>\>\>\>\> a3915749c3c53495f3986c03b7f6116e47876c80
