@@ -16,8 +16,7 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-=======
-**Step 12.3:**
+======= **Step 12.3:**
 
 This is a line form RStudio Karrigan: Went as expected
 
@@ -27,12 +26,11 @@ Quita: I missed some classes so I did not have git on my device. It took an enti
 
 **Step 12.4:**
 
-This is a line from RStudio
-Karrigan: Went as expected
+This is a line from RStudio Karrigan: Went as expected
 
 Cael L: The main problem I was having with committing changes to github it would set back the version of the READ.ME file in RStudio and it wouldn't allow me to enter visual mode. I was able to fix this problem by deleting any information that RStudio didn't know and it allowed me to commit messages.
 
-Quita: This step went as expected. I did not have any issues at this time. 
+Quita: This step went as expected. I did not have any issues at this time.
 
 Karrigan: This went as expected on my end, I believe this to be because at first I was the only one working on the file.
 
@@ -50,4 +48,4 @@ Cael L: There wasn't any issue with the changes I made to the RMarkdown file not
 
 Karrigan: This went as expected.
 
-Quita: This step went smoothly the first time but I got mixed up when I came back to make other changes. 
+Quita: This step went smoothly the first time but I got mixed up when I came back to make other changes.
