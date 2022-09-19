@@ -34,7 +34,7 @@ Karrigan: This went as expected on my end, I believe this to be baceuse at first
 
 Cael L: My main issue in trying to push my changes to Github. I kept running into merge errors and running into errors with the remote package. I was able to solve this problem by making sure to pull of the changes made to the repository before trying to push my changes, and I also decide to uninstall the remote package and I was able to push my changes much more smoothly.
 
-Karrigan: This went as expected. I think this is, again, because I was the only one workingn the file at the time.
+Karrigan: This went as expected. I think this is, again, because I was the only one working the file at the time.
 
 **Step 12.6:**
 
