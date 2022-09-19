@@ -16,7 +16,6 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-<<<<<<< HEAD
 =======
 **Step 12.3:**
 
@@ -28,7 +27,6 @@ Quita: I missed some classes so I did not have git on my device. It took an enti
 
 **Step 12.4:**
 
-<<<<<<< HEAD
 This is a line from RStudio
 Karrigan: Went as expected
 
