@@ -17,34 +17,47 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+**Step 12.1:**
+
+Karrigan: This went as expected because I was in class the day we set up
+RStudio and github.
+
+Cael L: For some reason, none of the packages were installed for me to
+be able to connect GitHub and Rstudio. This ultimately became a struggle
+and took a lot of in class time trying to re-install Git and getting my
+GitHub and RStudio to link together.
+
+**Step 12.2:** Karrigan: This went as expected, no issues.
+
+Cael L: Once I was able to get RStudio and GitHub to link, I was easily
+able to load the repository into RStudio.
+
 **Step 12.3:**
 
-This is a line form RStudio Karrigan: Went as expected
+This is a line form RStudio Karrigan: Went as expected since I had
+github and RStudio already installed.
 
-<<<<<<< HEAD
-This is a line from RStudio Cael: Step 12.3 went smoothly, and I was
-able to get the github repository to load into RStudio successfully.
-
-=======
-
-This line is from RStudio Quita: Went as expected
-
-======= This is a line from RStudio Karrigan: Went as expected
-\>\>\>\>\>\>\> a3915749c3c53495f3986c03b7f6116e47876c80 \>\>\>\>\>\>\>
-5f71163d651e8399b9e29f6bad7bd163f5a3fd51
-=======
 This is a line from RStudio Cael L: Step 12.3 went smoothly, and I was
 able to get the github repository to load into RStudio successfully.
 
+Quita: I missed some classes so I did not have git on my device. It took
+an entire class period to figure that out because I was trying to do the
+assignment before I had the two systems talking. I was able to figure it
+out in the end so I was happy!
+
 **Step 12.4:**
 
-Cael L. Step 12.4: The main problem I was having with committing changes
-to github it would set back the version of the READ.ME file in RStudio
-and it wouldn’t allow me to enter visual mode. I was able to fix this
-problem by deleting any information that RStudio didn’t know and it
-allowed me to commit messages.
+Cael L: The main problem I was having with committing changes to github
+it would set back the version of the READ.ME file in RStudio and it
+wouldn’t allow me to enter visual mode. I was able to fix this problem
+by deleting any information that RStudio didn’t know and it allowed me
+to commit messages.
 
-This line is from RStudio Quita: Went as expected
+Quita: This step went as expected. I did not have any issues at this
+time.
+
+Karrigan: This went as expected on my end, I believe this to be because
+at first I was the only one working on the file.
 
 **Step 12.5:**
 
@@ -55,10 +68,27 @@ changes made to the repository before trying to push my changes, and I
 also decide to uninstall the remote package and I was able to push my
 changes much more smoothly.
 
+Karrigan: This went as expected. I think this is, again, because I was
+the only one working the file at the time.
+
+Quita: This step went as expected. Just a couple clicks and I was good
+to go!
+
 **Step 12.6:**
 
 Cael L: There wasn’t any issue with the changes I made to the RMarkdown
 file not showing up in GitHub. Sometimes it would take 2 commits or
 pushes to get the changes to load, but other than that it went really
 smooth.
->>>>>>> 6c2f681ad726da926fe75e6a21bdbc559115f172
+
+Karrigan: This went as expected.
+
+Quita: This step went smoothly the first time but I got mixed up when I
+came back to make other changes.
+
+**Step 12.7:**
+
+Cael L: This went as expected and all of my work was saved to both
+RStudio and GitHub.
+
+Karrigan: This went as expected.
