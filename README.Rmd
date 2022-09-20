@@ -16,7 +16,11 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-======= **Step 12.3:**
+**Step 12.1:**
+
+**Step 12.2:**
+
+**Step 12.3:**
 
 This is a line form RStudio Karrigan: Went as expected
 
@@ -49,3 +53,5 @@ Cael L: There wasn't any issue with the changes I made to the RMarkdown file not
 Karrigan: This went as expected.
 
 Quita: This step went smoothly the first time but I got mixed up when I came back to make other changes.
+
+**Step 12.7:**
