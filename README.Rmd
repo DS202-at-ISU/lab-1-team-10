@@ -18,7 +18,11 @@ All submissions to the github repo will be automatically uploaded for grading on
 
 **Step 12.1:**
 
+Cael L: For some reason, none of the packages were installed for me to be able to connect GitHub and Rstudio. This ultimately became a struggle and took a lot of in class time trying to re-install Git and getting my GitHub and RStudio to link together.
+
 **Step 12.2:**
+
+Cael L: Once I was able to get RStudio and GitHub to link, I was easily able to load the repository into RStudio.
 
 **Step 12.3:**
 
@@ -55,3 +59,5 @@ Karrigan: This went as expected.
 Quita: This step went smoothly the first time but I got mixed up when I came back to make other changes.
 
 **Step 12.7:**
+
+Cael L: This went as expected and all of my work was saved to both RStudio and GitHub.
