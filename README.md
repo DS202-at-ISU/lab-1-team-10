@@ -27,10 +27,17 @@ be able to connect GitHub and Rstudio. This ultimately became a struggle
 and took a lot of in class time trying to re-install Git and getting my
 GitHub and RStudio to link together.
 
+Quita: This was a pain. I was not in class this day and forgot to look
+back at the videos. When I tried to do it, I missed simple steps that
+took too long to figure out.
+
 **Step 12.2:** Karrigan: This went as expected, no issues.
 
 Cael L: Once I was able to get RStudio and GitHub to link, I was easily
 able to load the repository into RStudio.
+
+Quita: I struggled to get the repository into my Rstudio becuase I did
+not have Git connected like I needed to yet.
 
 **Step 12.3:**
 
@@ -92,3 +99,5 @@ Cael L: This went as expected and all of my work was saved to both
 RStudio and GitHub.
 
 Karrigan: This went as expected.
+
+Quita: This step went well.
